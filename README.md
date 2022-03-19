@@ -1,9 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0265ff&height=180&section=header&fontSize=200&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <h1 align="center">
-
 ![Jesse's github stats](https://github-readme-stats.vercel.app/api?username=Uzcoin404&show_icons=true)
-
 </h1>
 
 <!--
@@ -23,8 +21,6 @@ Here are some ideas to get you started:
 
 <p>
  <img align="left" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
- <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
- <img align="right" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </p>
 
 <p align="center">
@@ -32,20 +28,20 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
  
+</p>
     <a href="https://git.io/typing-svg">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=40&color=FF0000&width=1000&lines=Welcome+To+My+Github"
             alt="Typing SVG"
         />
     </a>
-</p> -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzcoin404&layout=compact&bg_color=000080&title_color=9400D3&text_color=00CED1" />
     <img src="https://github-readme-stats.vercel.app/api?username=Uzcoin404&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=00CED1&bg_color=000080" />
 </p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Uzcoin404&theme=react-dark) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Uzcoin404&theme=react-dark)
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
@@ -62,7 +58,7 @@ Here are some ideas to get you started:
 <summary><b>Profile</b></summary>
  <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>  
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uzcoin404&theme=github_dark" alt="Uzcoin404" align = "center"/></p>
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>  
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
 <p align="center">
    
