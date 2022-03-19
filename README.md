@@ -1,38 +1,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0265ff&height=180&section=header&fontSize=200&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
+<p>
+ <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
+ <img align="right" width=150px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+</p>
+
 <h1 align="center">
 
 ![Jesse's github stats](https://github-readme-stats.vercel.app/api?username=Uzcoin404&show_icons=true)
 
 </h1>
 
-<!--
-**Uzcoin404/Uzcoin404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<p>
- <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
- <img align="right" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-</p>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzcoin404&layout=compact&bg_color=fff&title_color=3986ee&text_color=444e59" />
 </p>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Uzcoin404&theme=github)
-
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -68,3 +51,18 @@ Here are some ideas to get you started:
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0265ff&height=120&section=footer"/>
+
+<!--
+**Uzcoin404/Uzcoin404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
