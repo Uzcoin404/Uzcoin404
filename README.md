@@ -1,6 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0265ff&height=180&section=header&fontSize=200&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <h1>Hi there 👋</h1>
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+
 <p>I'm Suyunbek!⚡ I'm a Full stack Web developer!👨‍💻</p>
 
 - 🌱 I’m currently learning Telegram bots
@@ -56,7 +59,7 @@
 
 <p align="center">
    
-  <img width=100% src="https://github-profile-trophy.vercel.app/?username=Uzcoin404&bg_color=000080&column=5"/>
+  <img width=100% src="https://github-profile-trophy.vercel.app/?username=Uzcoin404&bg_color=000080&column=6"/>
 
 </p>
 
@@ -72,6 +75,9 @@
 <div style="display: inline_block">
 
 ![Suyunbek's github stats](https://github-readme-stats.vercel.app/api?username=Uzcoin404&show_icons=true)
+
+  <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
   
 </div>
