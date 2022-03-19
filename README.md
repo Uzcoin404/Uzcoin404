@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0265ff&height=180&section=header&fontSize=200&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
 <h1 align="center">
 
 ![Jesse's github stats](https://github-readme-stats.vercel.app/api?username=Uzcoin404&show_icons=true)
@@ -19,19 +21,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0265ff&height=180&section=header&fontSize=200&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-
 <p>
  <img align="left" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
  <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
  <img align="right" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </p>
-<img src="https://media1.giphy.com/media/ZbftmEwht0nDkl6XFX/giphy.gif?cid=ecf05e47l19lzmqnuv3o320i63xy3da13bsxhp10w9z9wm8s&rid=giphy.gif&ct=s" width="45" height="25" align="left"><img src="https://media2.giphy.com/media/3JTwfEEdDlpyh6M0o2/giphy.gif?cid=790b7611e9c9e8bc9ce40170c9368926692fdb648405ee7c&rid=giphy.gif&ct=s" width="45" height="25" align="right"><img src="https://media0.giphy.com/media/2oO1ZKeNbqOfdZq3Xg/giphy.gif?cid=790b7611ba913d63c2062a9ed006330a9e0b3b82405ca556&rid=giphy.gif&ct=s" width="40" height="25" align="left"><img src="https://media4.giphy.com/media/Jfcb1m7szdya4/giphy.gif?cid=790b7611ba301e9e5a458343e47a2e69f896f8a65b16c282&rid=giphy.gif&ct=s" width="45" height="25" align="right"><img src="https://media3.giphy.com/media/TpNTATTp5c2Ri/giphy.gif?cid=790b7611a9ccd55e6b764aacf4c7a277dc6c1d020f1e187e&rid=giphy.gif&ct=s" width="45" height="25" align="right"><img src="https://media0.giphy.com/media/5eFFhJ3yrAIndRQeFx/giphy.gif?cid=790b761159865a018304701e37e468edc07abbeca1073a30&rid=giphy.gif&ct=s" width="35" height="25">
 
 <p align="center">
     <img align="" height='120px' src="https://github.com/fawzirjili/fawzirjili/blob/main/Fractal_tree.gif?raw=true" /><img align="center" height='300px'>                          
-<!-- </p>
+</p>
 <p align="center">
  
     <a href="https://git.io/typing-svg">
