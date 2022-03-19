@@ -16,8 +16,8 @@
 
 
 
-<h3 align="center">Languages and Tools:</h3>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
+<h3 align="center">Languages and Tools:</h3>
 
 <p>
     <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
@@ -56,7 +56,7 @@
 
 <p align="center">
    
-  <img width=100% src="https://github-profile-trophy.vercel.app/?username=Uzcoin404&bg_color=000080&column=9"/>
+  <img width=100% src="https://github-profile-trophy.vercel.app/?username=Uzcoin404&bg_color=000080&column=5"/>
 
 </p>
 
@@ -67,9 +67,11 @@
    <a href="https://github.com/Uzcoin404/Uzcoin404"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
   </p>
 </details>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
 <div style="display: inline_block">
 
+![Suyunbek's github stats](https://github-readme-stats.vercel.app/api?username=Uzcoin404&show_icons=true)
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
   
 </div>
