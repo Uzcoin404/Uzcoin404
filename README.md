@@ -2,6 +2,7 @@
 
 <h1 align="center">
 <summary><b>About</b></summary>
+
 ![Suyunbek's github stats](https://github-readme-stats.vercel.app/api?username=Uzcoin404&show_icons=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzcoin404&layout=compact&bg_color=fff&title_color=3986ee&text_color=444e59" />
 
@@ -34,11 +35,11 @@
 
 <summary><b>Profile</b></summary>
 
-![Suyunbek's github stats](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/0-profile-details.svg)
-![Suyunbek's github stats](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/1-repos-per-language.svg)
-![Suyunbek's github stats](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/2-most-commit-language.svg)
-![Suyunbek's github stats](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/3-stats.svg)
-![Suyunbek's github stats](https://raw.githubusercontent.com/vn7n24fzkq/vn7n24fzkq/master/profile-summary-card-output/solarized/4-productive-time.svg)
+![Suyunbek's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uzcoin404&theme=github)
+![Suyunbek's github stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uzcoin404&theme=github)
+![Suyunbek's github stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uzcoin404&theme=github)
+![Suyunbek's github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uzcoin404&theme=github)
+![Suyunbek's github stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uzcoin404&theme=github)
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
