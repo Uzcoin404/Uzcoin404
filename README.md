@@ -33,7 +33,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></code>
   <summary><b>Profile</b></summary>
  <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>  
-<p align="center"><img height="720px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uzcoin404&theme=nord_bright" alt="Uzcoin404" align = "center"/></p>
+<p align="center"><img width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uzcoin404&theme=nord_bright" alt="Uzcoin404" align="center"/></p>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
 <p align="center">
