@@ -4,18 +4,17 @@
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
-<p>I'm Suyunbek!⚡ I'm a Full stack Web developer!👨‍💻</p>
+<h3>I'm Suyunbek!⚡ I'm a Full stack Web developer!👨‍💻</h3>
 
 - 🌱 I’m currently learning Telegram bots
-- 👯 I’m looking to collaborate on ...
 - 💬 Ask me about Web sites Php and Javascript
 - 🧑‍💻 I’m looking to collaborate on open source projects
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: My Nickname is Uzcoin
 - 📫 How to reach me: 
-    - through Telegram <a href="https://twitter.com/MrUzcoin"></a>
-    - through Facebook <a href="https://twitter.com/MrUzcoin"></a>
-    - through Twitter <a href="https://twitter.com/MrUzcoin"></a>
+    - through <a href="https://twitter.com/MrUzcoin">Telegram</a>
+    - through <a href="https://twitter.com/MrUzcoin">Facebook</a>
+    - through <a href="https://twitter.com/MrUzcoin">Twitter</a>
 
 
 
@@ -48,18 +47,18 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 <summary><b>Profile</b></summary>
 
-![Suyunbek's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uzcoin404&theme=github)
-![Suyunbek's github stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uzcoin404&theme=github)
-![Suyunbek's github stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uzcoin404&theme=github)
-![Suyunbek's github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uzcoin404&theme=github)
-![Suyunbek's github stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uzcoin404&theme=github)
+![Suyunbek's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uzcoin404&theme=nord_bright)
+![Suyunbek's github stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uzcoin404&theme=nord_bright)
+![Suyunbek's github stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uzcoin404&theme=nord_bright)
+![Suyunbek's github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uzcoin404&theme=nord_bright)
+![Suyunbek's github stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uzcoin404&theme=nord_bright)
 
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
 <p align="center">
    
-  <img width=100% src="https://github-profile-trophy.vercel.app/?username=Uzcoin404&bg_color=000080&column=6"/>
+  <img width=100% src="https://github-profile-trophy.vercel.app/?username=Uzcoin404&column=6&theme=nord"/>
 
 </p>
 
