@@ -12,9 +12,9 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: My Nickname is Uzcoin
 - 📫 How to reach me: 
-    - through <a href="https://t.me/MrUzcoin">Telegram</a>
-    - through <a href="https://www.facebook.com/MrUzcoin/">Facebook</a>
-    - through <a href="https://twitter.com/MrUzcoin">Twitter</a>
+    - through <a href="https://t.me/MrUzcoin" target="_blank">Telegram</a>
+    - through <a href="https://www.facebook.com/MrUzcoin/" target="_blank">Facebook</a>
+    - through <a href="https://twitter.com/MrUzcoin" target="_blank">Twitter</a>
 
 
 
@@ -45,14 +45,18 @@
 </p>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
-<summary><b>Profile</b></summary>
 
+<h3 align="center">Profile</h3>
+
+<p align="center">
+   
 ![Suyunbek's github stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uzcoin404&theme=nord_dark)
 ![Suyunbek's github stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uzcoin404&theme=nord_dark)
 ![Suyunbek's github stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uzcoin404&theme=nord_dark)
 ![Suyunbek's github stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uzcoin404&theme=nord_dark)
 ![Suyunbek's github stats](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uzcoin404&theme=nord_dark)
 
+</p>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 
