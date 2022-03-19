@@ -23,15 +23,12 @@ Here are some ideas to get you started:
 
 <p>
  <img align="left" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
- <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
- <img align="right" width=80px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 </p>
 
 <p align="center">
     <img align="" height='120px' src="https://github.com/fawzirjili/fawzirjili/blob/main/Fractal_tree.gif?raw=true" /><img align="center" height='300px'>                          
 </p>
 <p align="center">
-
     <a href="https://git.io/typing-svg">
         <img
             src="https://readme-typing-svg.herokuapp.com?size=42&color=FF0000&width=1000&lines=Welcome+To+My+Github"
@@ -41,8 +38,7 @@ Here are some ideas to get you started:
 </p>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzcoin404&layout=compact&bg_color=000080&title_color=9400D3&text_color=00CED1" />
-    <img src="https://github-readme-stats.vercel.app/api?username=Uzcoin404&show_icons=true&title_color=9400D3&icon_color=79ff97&text_color=00CED1&bg_color=000080" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzcoin404&layout=compact&bg_color=fff&title_color=9400D3&text_color=00CED1" />
 </p>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Uzcoin404&theme=react-dark)
