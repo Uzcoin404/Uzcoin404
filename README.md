@@ -1,19 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0265ff&height=180&section=header&fontSize=200&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<p>
- <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
- <img align="right" width=120px height=80px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
-</p>
-
 <h1 align="center">
 
 ![Jesse's github stats](https://github-readme-stats.vercel.app/api?username=Uzcoin404&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzcoin404&layout=compact&bg_color=fff&title_color=3986ee&text_color=444e59" />
 
 </h1>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzcoin404&layout=compact&bg_color=fff&title_color=3986ee&text_color=444e59" />
-</p>
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -33,11 +25,12 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/telegram/telegram-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
   
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-ar21.svg"></code>
   <summary><b>Profile</b></summary>
  <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>  
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uzcoin404&theme=github_dark" alt="Uzcoin404" align = "center"/></p>
