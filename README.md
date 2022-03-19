@@ -1,12 +1,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0265ff&height=180&section=header&fontSize=200&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-<h1 align="center">
-<summary><b>About</b></summary>
+<h1>Hi there 👋</h1>
+<p>I'm Suyunbek!⚡ I'm a Full stack Web developer!👨‍💻</p>
 
-![Suyunbek's github stats](https://github-readme-stats.vercel.app/api?username=Uzcoin404&show_icons=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uzcoin404&layout=compact&bg_color=fff&title_color=3986ee&text_color=444e59" />
+- 🌱 I’m currently learning Telegram bots
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about Web sites Php and Javascript
+- 🧑‍💻 I’m looking to collaborate on open source projects
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: My Nickname is Uzcoin
+- 📫 How to reach me: 
+    - through Telegram <a href="https://twitter.com/MrUzcoin"></a>
+    - through Facebook <a href="https://twitter.com/MrUzcoin"></a>
+    - through Twitter <a href="https://twitter.com/MrUzcoin"></a>
 
-</h1>
+
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -66,18 +75,3 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0265ff&height=120&section=footer"/>
-
-<!--
-**Uzcoin404/Uzcoin404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
