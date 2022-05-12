@@ -15,6 +15,7 @@
 <a href="https://www.facebook.com/MrUzcoin/"><img src="https://img.shields.io/badge/Facebook-1778F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/mruzcoin/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/MrUzcoin"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+<a href="https://twitter.com/MrUzcoin"><img src="https://img.shields.io/badge/Linkedin-1DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 
 
