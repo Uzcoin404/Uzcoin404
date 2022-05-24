@@ -79,5 +79,5 @@
 
 <div style="display: inline_block">
     <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
-    <img align="right" alt="GIF" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="500" />
+    <img align="right" alt="GIF" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400" />
 </div>
