@@ -16,6 +16,7 @@
 <a href="https://www.instagram.com/mruzcoin/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/MrUzcoin"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/suyunbek/"><img src="https://img.shields.io/badge/Linkedin-0072b1.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=uzcoin404&label=Profile%20views&color=ff69b4" alt="Uzcoin404" />
 
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/>
