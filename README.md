@@ -27,6 +27,7 @@
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img align="center" alt="REACTJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" alt="Nextjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=next&logoColor=000" />
     <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
     <img align="center" alt="MATERIALUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
     <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-8b12fd?style=for-the-badge&logo=Bootstrap&logoColor=white" />
@@ -39,7 +40,6 @@
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-f0931c?style=for-the-badge&logo=java&logoColor=white" />
     <img align="center" alt="API" src="https://img.shields.io/badge/API-202124?style=for-the-badge&logo=API&logoColor=white" />
     <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-0ac97f?style=for-the-badge&logo=Figma&logoColor=black" />
-    <img align="center" alt="Photoshop" src="https://img.shields.io/badge/Photoshop-001631?style=for-the-badge&logo=Photoshop&logoColor=white" />
     <img align="center" alt="Github" src="https://img.shields.io/badge/Github-161b22?style=for-the-badge&logo=Github&logoColor=white" />
     <img align="center"alt="GIT" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
     
