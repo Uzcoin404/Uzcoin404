@@ -27,8 +27,8 @@
     <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
     <img align="center" alt="REACTJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="Nextjs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=next&logoColor=000" />
-    <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+    <img align="center" alt="Nextjs" src="https://img.shields.io/badge/Nextjs-20232A?style=for-the-badge&logo=nextjs&logoColor=000" />
+    <img align="center" alt="Scss" src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
     <img align="center" alt="MATERIALUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
     <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-8b12fd?style=for-the-badge&logo=Bootstrap&logoColor=white" />
     <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Tailwindcss-38bdf8?style=for-the-badge&logo=Tailwindcss&logoColor=white" />
@@ -36,6 +36,7 @@
     <img align="center" alt="Gulp" src="https://img.shields.io/badge/Gulp-d34446?style=for-the-badge&logo=gulp&logoColor=white" />
     <img align="center" alt="Pug" src="https://img.shields.io/badge/Pug-56332b?style=for-the-badge&logo=pug&logoColor=white" />
     <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-4d588e?style=for-the-badge&logo=PHP&logoColor=white" />
+    <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-4d588e?style=for-the-badge&logo=laravel&logoColor=F05340" />
     <img align="center" alt="Wordpress" src="https://img.shields.io/badge/Wordpress-30353a?style=for-the-badge&logo=Wordpress&logoColor=white" />
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-f0931c?style=for-the-badge&logo=java&logoColor=white" />
     <img align="center" alt="API" src="https://img.shields.io/badge/API-202124?style=for-the-badge&logo=API&logoColor=white" />
