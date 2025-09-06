@@ -4,11 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=I'm+a+Full+stack+Web+developer!+%F0%9F%92%BB)](https://github.com/Uzcoin404)
 
-- 🌱 I’m currently learning Nextjs
-- 💬 Ask me about Web sites Php and Javascript
-- 🧑‍💻 I’m looking to collaborate on open source projects
+- 🌱 I’m studying at Tashkent university for applied sciences
+- 💬 Ask me about movies and minecraft
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: My Nickname is Uzcoin
+- ⚡ Fun fact: My nickname is Uzcoin
 - 📫 How to reach me: 
 
 <a href="https://t.me/suyunbek_dev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
@@ -29,21 +28,10 @@
     <img align="center" alt="REACTJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center" alt="Nextjs" src="https://img.shields.io/badge/Nextjs-000?style=for-the-badge&logo=nextjs&logoColor=000" />
     <img align="center" alt="Scss" src="https://img.shields.io/badge/Scss-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-    <img align="center" alt="MATERIALUI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-    <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-8b12fd?style=for-the-badge&logo=Bootstrap&logoColor=white" />
     <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Tailwindcss-38bdf8?style=for-the-badge&logo=Tailwindcss&logoColor=white" />
-    <img align="center" alt="Jquery" src="https://img.shields.io/badge/Jquery-0865a6?style=for-the-badge&logo=Jquery&logoColor=white" />
-    <img align="center" alt="Gulp" src="https://img.shields.io/badge/Gulp-d34446?style=for-the-badge&logo=gulp&logoColor=white" />
-    <img align="center" alt="Pug" src="https://img.shields.io/badge/Pug-56332b?style=for-the-badge&logo=pug&logoColor=white" />
     <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-4d588e?style=for-the-badge&logo=PHP&logoColor=white" />
     <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-F05340?style=for-the-badge&logo=laravel&logoColor=white" />
-    <img align="center" alt="Wordpress" src="https://img.shields.io/badge/Wordpress-30353a?style=for-the-badge&logo=Wordpress&logoColor=white" />
-    <img align="center" alt="Java" src="https://img.shields.io/badge/Java-f0931c?style=for-the-badge&logo=java&logoColor=white" />
-    <img align="center" alt="API" src="https://img.shields.io/badge/API-202124?style=for-the-badge&logo=API&logoColor=white" />
-    <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-0ac97f?style=for-the-badge&logo=Figma&logoColor=black" />
-    <img align="center" alt="Github" src="https://img.shields.io/badge/Github-161b22?style=for-the-badge&logo=Github&logoColor=white" />
-    <img align="center"alt="GIT" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    
+    <img align="center" alt="Wordpress" src="https://img.shields.io/badge/Wordpress-30353a?style=for-the-badge&logo=Wordpress&logoColor=white" />    
 </div>
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
@@ -79,6 +67,5 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="100%"/>
 
 <div style="display: inline_block">
-    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" />
     <img align="right" alt="GIF" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="400" />
 </div>
