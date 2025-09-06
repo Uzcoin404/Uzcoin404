@@ -11,8 +11,7 @@
 - 📫 How to reach me: 
 
 <a href="https://t.me/suyunbek_dev"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://www.facebook.com/suyunbekdev/"><img src="https://img.shields.io/badge/Facebook-1778F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/suyunbek_dev/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://discord.com/users/879032124043329578"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://twitter.com/suyunbek_dev"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/suyunbek/"><img src="https://img.shields.io/badge/Linkedin-0072b1.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=uzcoin404&label=Profile%20views&color=ff69b4" alt="Uzcoin404" />
